@@ -1,4 +1,4 @@
-# Vodafone SWDT Task
+# Vodafone SWDT Task _ Yahoo Mail
   Scenario:  Preconditions: 
 Create 2 email accounts on any email provider manually (because usually this part will contain captcha verification). 
  Steps: 
