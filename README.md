@@ -16,3 +16,4 @@ VodaSWDTTask/src/test/java/demo/VodaSWDTTask/
 	String secondMail = "Write your Second Mail "; 
 	String secondPassword = "Password"; 
  ```
+and you can choose Web driver from change the variable in the same path and choose operating system too.
